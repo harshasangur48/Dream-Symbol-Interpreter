@@ -47,5 +47,6 @@
 Clone the repository:
 
 
-## git clone https://github.com/your-username/dream-symbol-interpreter.git
+## https://github.com/harshasangur48/Dream-Symbol-Interpreter.git
 cd dream-symbol-interpreter
+
