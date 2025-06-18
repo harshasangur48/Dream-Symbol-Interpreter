@@ -9,7 +9,7 @@ import os
 
 st.set_page_config(page_title="Dream Interpreter", layout="centered")
 
-MISTRAL_API_KEY = "7JgLxB9RiMIpwMYC4XmdMxYbVsCnYu2d"
+MISTRAL_API_KEY = "enter your own api "
 MISTRAL_URL = "https://api.mistral.ai/v1/chat/completions" 
 
 def set_blurred_gradient_background(image_file_path):
